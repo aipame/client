@@ -1,0 +1,83 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.AttachToProcess" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Launcher\EnergyPool.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Utility\HttpUtility.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shader\Background.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneObject\SceneObjMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\InnerRes\Version.bytes" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\NativeInterface.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Editor\UIAtlasMaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\ExtraRes\UI\Image\Font\Head_VipLevel_Font.fnt" Line="1" Column="1" />
+      <File FileName="Assets\Resources\ExtraRes\UI\Image\Font\ShopNum_Font.fnt" Line="1" Column="1" />
+      <File FileName="Assets\Resources\ExtraRes\UI\Image\Font\Upgrade_Font.fnt" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\ReadMe - 3.8.2.txt" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UIAnchor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Logon\LogonData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Logon\LogonLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Socket\FTPClient.cs" Line="7" Column="30" />
+      <File FileName="Assets\Scripts\Logic_Logon\LogonLogicUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\GlobalLogon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\FsihMsg.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Net\NetCmdMapping.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\GlobalHallUIMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Socket\NewUDPClient.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Socket\NetServices.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Logon\LogonInitWnd.cs" Line="8" Column="26" />
+      <File FileName="Assets\Scripts\Logic_Init\InitLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServerSetting\ServerSetting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Update\UpdateLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServerSetting\BulletSetting.cs" Line="8" Column="39" />
+      <File FileName="Assets\Scripts\Version\VersionManager.cs" Line="174" Column="47" />
+      <File FileName="Assets\Scripts\Logic_Logon\forgetpassword.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Launcher\Bullet.cs" Line="10" Column="28" />
+      <File FileName="Assets\Scripts\Logic_Scene\CRPath.cs" Line="57" Column="20" />
+      <File FileName="Assets\Scripts\Logic_Scene\SceneBulletMgr.cs" Line="174" Column="43" />
+      <File FileName="Assets\Scripts\Logic_Scene\SceneMatchRank.cs" Line="13" Column="79" />
+      <File FileName="Assets\Scripts\Logic_Scene\SceneLockedUI.cs" Line="61" Column="36" />
+      <File FileName="Assets\Scripts\Logic_Scene\SceneWonderful.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Update\UpdateLogicUI.cs" Line="7" Column="22" />
+      <File FileName="Assets\Scripts\Main\Announcement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\SceneMain.cs" Line="85" Column="26" />
+      <File FileName="Assets\Scripts\Logic_Scene\SceneRuntime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Scene\SceneSkillMgr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Scene\SendGiftEff.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic_Scene\SkillBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\ClientMsgHandle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\FishConfig.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\RoleDial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\RoleGiff.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\SystemTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Res\ResManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServerSetting\Experience.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServerSetting\ExtraSetting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServerSetting\FishSetting.cs" Line="12" Column="30" />
+      <File FileName="Assets\Scripts\ServerSetting\LauncherSettingcs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServerSetting\ReductionData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ServerSetting\SkillSetting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Skill\Skill.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Net\NetCmd.cs" Line="33" Column="31" />
+      <File FileName="Assets\Scripts\Player\Role\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\RoleAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\RoleEntity.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\RoleRelation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\RoleRelationRequest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Role\RoleShop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shader\FishAddTex.shader" Line="24" Column="38" />
+      <File FileName="Assets\Scripts\SDK\SDKChannel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Launcher\EnergyPool.cs" Line="19" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\work\buyu\client\Assets\Scripts\Socket\NewUDPClient.cs" line="65" column="1" />
+      <Breakpoint file="E:\work\buyu\client\Assets\Scripts\Logic_Logon\LogonLogic.cs" line="759" column="1" />
+      <Breakpoint file="E:\work\buyu\client\Assets\Scripts\Logic_Logon\LogonLogic.cs" line="754" column="1" />
+      <Breakpoint file="E:\work\buyu\client\Assets\Scripts\ServerSetting\ServerSetting.cs" line="78" column="1" />
+      <Breakpoint file="E:\work\buyu\client\Assets\Scripts\Version\VersionManager.cs" line="83" column="31" />
+      <Breakpoint file="E:\work\buyu\client\Assets\Scripts\Version\VersionManager.cs" line="50" column="1" />
+      <Breakpoint file="E:\work\buyu\client\Assets\Scripts\Version\VersionManager.cs" line="33" column="20" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

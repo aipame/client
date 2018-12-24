@@ -1,0 +1,156 @@
+ManifestFileVersion: 0
+CRC: 1970958539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec9914ad5a7b5d5ef075b7d88fdf26e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2b9bef2b4316e247a81ffa25f6e3cc4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae942c9068183dc40a9d01f648273726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75e7459110b9666449485c40f25362a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81807633ea807d4c8e3fff7e10c6000, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e2747e3775af504da1a4d5a46c5a1ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b4eb3a400afab046abb8471a9d746d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b7925b4a91efe54280eb3e46227c407, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d166255cacf07b4292b8402b3ddefc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac5060295fbd39b4a88d20d0c83d925e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d44bc69c2ca5f943b845318866dc1bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04d1b7c9e9a19a24ab67123a43c6544b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c4de3b4b6fe9045b059ee627c100df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/HallRes/Prefab/UI/Font/Match_Name_Num.prefab
+- Assets/Resources/HallRes/Prefab/Effect/UIModeEffect/Fish_MainUI_Chuangguan.prefab
+- Assets/Resources/HallRes/Image/UI/Materials/Contest_Content_RankImage.mat
+- Assets/Resources/HallRes/Prefab/Effect/UIFishEffect/FishCrownLight.prefab
+- Assets/Resources/HallRes/Prefab/UI/MianHallWind.prefab
+- Assets/Resources/HallRes/Prefab/UI/HallRoomWind.prefab
+- Assets/Resources/HallRes/Image/UI/Materials/InformationImage.mat
+- Assets/Resources/HallRes/Prefab/Effect/UIChests/UIEf_Chests.prefab
+- Assets/Resources/HallRes/Prefab/UI/RelaxEnterWnd.prefab
+- Assets/Resources/HallRes/Image/UI/InformationImage_1.png
+- Assets/Resources/HallRes/Image/UI/ContestContent_RankNum.fnt
+- Assets/Resources/HallRes/Prefab/Effect/UITimeBox/Ef_TimeBox_01.prefab
+- Assets/Resources/HallRes/Image/UI/Materials/MianHallWindImage.mat
+- Assets/Resources/HallRes/Image/UI/Materials/Hall_RoomImage.mat
+- Assets/Resources/HallRes/Image/UI/Information_Head_bg.png
+- Assets/Resources/HallRes/Image/UI/Hall_Information_Task1.png
+- Assets/Resources/HallRes/Prefab/UI/PrefabImage/MianHallWindImage.prefab
+- Assets/Resources/HallRes/Image/UI/ContestContent_RankNum_0.png
+- Assets/Resources/HallRes/Prefab/Effect/UIPay/UIEf_PayNotReceive.prefab
+- Assets/Resources/HallRes/Image/UI/Contest_Rank_Num_2_0.png
+- Assets/Resources/HallRes/Image/UI/Match_Name_Font.fnt
+- Assets/Resources/HallRes/Image/UI/Hall_Information_Rank0.png
+- Assets/Resources/HallRes/Image/UI/Hall_Activity_Wnd_Bg.png
+- Assets/Resources/HallRes/Image/UI/MianHallWindImage.png
+- Assets/Resources/HallRes/Prefab/UI/ContestWind.prefab
+- Assets/Resources/HallRes/Prefab/Effect/UIModeEffect/Fish_MainUI_Jingsai.prefab
+- Assets/Resources/HallRes/Prefab/Effect/UIPay/UIEf_activityPay.prefab
+- Assets/Resources/HallRes/Prefab/Effect/UIFishEffect/FishSmokeEffect.prefab
+- Assets/Resources/HallRes/Image/UI/Information_ChangeHead_Bg.png
+- Assets/Resources/HallRes/Prefab/UI/Font/Contest_Content_RankNumLabel.prefab
+- Assets/Resources/HallRes/Prefab/UI/CDKey_Wnd.prefab
+- Assets/Resources/HallRes/Prefab/UI/PrefabImage/InformationImage_1.prefab
+- Assets/Resources/HallRes/Image/UI/Materials/Contest_Rank_Num.mat
+- Assets/Resources/HallRes/Image/UI/Materials/InformationImage_1.mat
+- Assets/Resources/HallRes/Image/UI/Contest_Content_RankImage.png
+- Assets/Resources/HallRes/Image/UI/Materials/Contest_Rank_Num_1.mat
+- Assets/Resources/HallRes/Prefab/UI/InformationWind.prefab
+- Assets/Resources/HallRes/Image/UI/Contest_Rank_Num_0.png
+- Assets/Resources/HallRes/Image/UI/Materials/Match_Name_Num.mat
+- Assets/Resources/HallRes/Prefab/Effect/UIAchievement/Ef_ItemLight.prefab
+- Assets/Resources/HallRes/Image/UI/Hall_Information_Task0.png
+- Assets/Resources/HallRes/Image/UI/Contest_Rank_Num.fnt
+- Assets/Resources/HallRes/Prefab/UI/PrefabImage/InformationImage.prefab
+- Assets/Resources/HallRes/Image/UI/Contest_Rank_Num_1.fnt
+- Assets/Resources/HallRes/New Prefab.prefab
+- Assets/Resources/HallRes/Prefab/Effect/UIJingsaijiesuo/Ef_JingsaiYindao.prefab
+- Assets/Resources/HallRes/Image/UI/MyRankBg.png
+- Assets/Resources/HallRes/Prefab/Effect/UIFishEffect/FishYachiLight.prefab
+- Assets/Resources/HallRes/Image/UI/Hall_RoomImage.png
+- Assets/Resources/HallRes/Image/UI/Hall_Information_Rank1.png
+- Assets/Resources/HallRes/Prefab/Effect/UIModeEffect/Fish_MainUI_Lianji .prefab
+- Assets/Resources/HallRes/Prefab/Effect/UILevel/UIEF_ActivityGet.prefab
+- Assets/Resources/HallRes/Image/UI/Materials/MianHall_qipao 1.mat
+- Assets/Resources/HallRes/Image/UI/Match_Name_Font_0.tga
+- Assets/Resources/HallRes/Image/UI/Contest_Rank_Num_2.fnt
+- Assets/Resources/HallRes/Prefab/UI/Font/Contest_Rank_Num_1.prefab
+- Assets/Resources/HallRes/Image/UI/ContestWind_Bg.png
+- Assets/Resources/HallRes/Image/UI/Inofrmation_Head_Mask.png
+- Assets/Resources/HallRes/Image/UI/Contest_Rank_Num_1_0.png
+- Assets/Resources/HallRes/Prefab/UI/Font/Contest_Rank_Num.prefab
+- Assets/Resources/HallRes/Image/UI/Materials/Contest_Content_RankNumLabel.mat
+- Assets/Resources/HallRes/Prefab/UI/PrefabImage/Contest_Content_RankImage.prefab
+- Assets/Resources/HallRes/Prefab/UI/HallWindBtns.prefab
+- Assets/Resources/HallRes/Prefab/UI/PrefabImage/Hall_RoomImage.prefab
+- Assets/Resources/HallRes/Image/UI/InformationImage.png
+Dependencies: []
